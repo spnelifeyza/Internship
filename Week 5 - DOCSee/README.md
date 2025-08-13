@@ -50,8 +50,3 @@ DOCSee is a full-featured document scanning and OCR (Optical Character Recogniti
 - **OCR Engine:** EasyOCR
 - **PDF Export:** ReportLab
 - **Spell Checking:** JamSpell
-
----
-
-## 📂 Project Structure
-
